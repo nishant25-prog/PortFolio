@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260">
-  <rect rx="16" width="100%" height="100%" fill="#071827"/>
-  <circle cx="80" cy="80" r="50" fill="#0b1220"/>
-  <text x="165" y="90" fill="#e6eef8" font-size="20" font-family="Arial">Nishant Bimra</text>
-  <text x="165" y="118" fill="#94a3b8" font-size="14" font-family="Arial">Web Developer • Student</text>
-  <rect x="20" y="160" width="360" height="70" rx="10" fill="#071827" opacity="0.8"/>
-  <text x="40" y="190" fill="#94a3b8" font-size="12">Location: Bhiwadi, India</text>
-  <text x="40" y="210" fill="#94a3b8" font-size="12">Email: your.email@example.com</text>
-</svg>
